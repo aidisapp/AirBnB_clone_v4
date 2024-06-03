@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Prosper Atu - [Github](https://github.com/prosper74) / [Twitter](https://twitter.com/prosperjohnson)  
-David Ovalle - [Github](https://github.com/aidisapp) / [Twitter](https://twitter.com/aidisapp)
+Idongesit Ekanem - [Github](https://github.com/aidisapp) / [Twitter](https://twitter.com/aidisapp)
 
 Second part of Airbnb: Joann Vuong
 ## License
